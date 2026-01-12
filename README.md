@@ -16,5 +16,5 @@ Professional AI crypto trading bot.
 2. After payment, you will receive a License Key
 
 3. Install:
-pip install tradeguard-installer
+pip install tradeguard-installer 
 tradeguard install
