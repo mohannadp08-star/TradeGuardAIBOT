@@ -17,5 +17,4 @@ Professional AI crypto trading bot.
 
 3. Install:
 pip install tradeguard-installer
-
 tradeguard install
