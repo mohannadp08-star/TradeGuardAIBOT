@@ -1,8 +1,6 @@
 # TradeGuardAIBOT
 TradeGuardAIBOT is an advanced automated crypto trading bot designed to analyze market trends, enter smart trades, and manage risk automatically — even while you sleep.
 
-# TradeGuard AI Bot
-
 Professional AI crypto trading bot.
 
 ### Features
@@ -18,3 +16,5 @@ Professional AI crypto trading bot.
 2. After payment, you will receive a License Key
 
 3. Install:
+pip install tradeguard-installer
+tradeguard install
